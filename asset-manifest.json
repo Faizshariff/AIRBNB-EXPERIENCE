@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AIRBNB-EXPERIENCE/static/css/main.df5275bf.css",
+    "main.js": "/AIRBNB-EXPERIENCE/static/js/main.7f81f49f.js",
+    "static/media/banner.png": "/AIRBNB-EXPERIENCE/static/media/banner.08ebdb940e0fa1fc0da5.png",
+    "static/media/ACTIVITY-1.png": "/AIRBNB-EXPERIENCE/static/media/ACTIVITY-1.91119c30db3be4b6e7d8.png",
+    "static/media/ACTIVITY-2.png": "/AIRBNB-EXPERIENCE/static/media/ACTIVITY-2.980d5e298852c518e080.png",
+    "static/media/banner2.jpg": "/AIRBNB-EXPERIENCE/static/media/banner2.5fd0ee69b28b526fb9ba.jpg",
+    "static/media/image-7.png": "/AIRBNB-EXPERIENCE/static/media/image-7.2e772098555277ef9b79.png",
+    "static/media/image-4.png": "/AIRBNB-EXPERIENCE/static/media/image-4.a2ac2bca67e3993b566c.png",
+    "static/media/image-9.png": "/AIRBNB-EXPERIENCE/static/media/image-9.de389401b3859eff0451.png",
+    "static/media/image-3.png": "/AIRBNB-EXPERIENCE/static/media/image-3.0f0ffdf0fbe6db661ad3.png",
+    "static/media/image-6.png": "/AIRBNB-EXPERIENCE/static/media/image-6.8e46b7da695e24a20cb0.png",
+    "static/media/image-5.png": "/AIRBNB-EXPERIENCE/static/media/image-5.aa16e87b556b89e980d4.png",
+    "static/media/image-1.png": "/AIRBNB-EXPERIENCE/static/media/image-1.810ea96e6b24b4580e0b.png",
+    "static/media/image-2.png": "/AIRBNB-EXPERIENCE/static/media/image-2.5a0494146368c6f5bf83.png",
+    "static/media/image-8.png": "/AIRBNB-EXPERIENCE/static/media/image-8.d8ead139f91c6ed881a1.png",
+    "index.html": "/AIRBNB-EXPERIENCE/index.html",
+    "main.df5275bf.css.map": "/AIRBNB-EXPERIENCE/static/css/main.df5275bf.css.map",
+    "main.7f81f49f.js.map": "/AIRBNB-EXPERIENCE/static/js/main.7f81f49f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5275bf.css",
+    "static/js/main.7f81f49f.js"
+  ]
+}
